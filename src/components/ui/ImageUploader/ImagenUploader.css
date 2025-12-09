@@ -1,0 +1,20 @@
+.uploadButton {
+  display: inline-block;
+  padding: 10px 16px;
+  background: #111827;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 14px;
+  transition: 0.2s ease;
+  user-select: none;
+}
+
+.uploadButton:hover {
+  background: #000;
+}
+
+.uploadButton input {
+  display: none;
+}

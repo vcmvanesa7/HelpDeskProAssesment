@@ -1,0 +1,222 @@
+{
+  "Navbar": {
+    "products": "Productos",
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar sesión",
+    "profile": "Perfil",
+    "adminPanel": "Panel Admin",
+    "support": "Soporte",
+    "supportPanel": "Panel de Soporte"
+  },
+  "footer": {
+    "brandTitle": "KOI Streetwear",
+    "brandDescription": "Moda urbana para él y ella. Oversized drops • Cultura skate • Estilo night-drip.",
+    "quickLinks": "Enlaces Rápidos",
+    "products": "Productos",
+    "about": "Sobre Nosotros",
+    "contact": "Contacto",
+    "support": "Soporte",
+    "policies": "Políticas",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos y Condiciones",
+    "shipping": "Información de Envíos",
+    "returns": "Reembolsos y Devoluciones",
+    "copyright": "Todos los derechos reservados."
+  },
+  "home": {
+    "featuredTitle": "Lanzamientos Destacados",
+    "featuredViewAll": "Ver todos →",
+    "loading": "Cargando productos…",
+    "noProducts": "Aún no hay productos.",
+
+    "latestTitle": "Nuevos en Tienda",
+    "latestSeeAll": "Ver nuevos →",
+
+    "videoIntro": {
+      "title": "Streetwear para Él y Ella",
+      "subtitle": "Camisetas oversize, cargos, hoodies y drops limitados inspirados en la moda urbana moderna."
+    },
+    "hero": {
+      "tag": "DROP LIMITADO • STREETWEAR PREMIUM",
+      "titleLine1": "KOI Urban Oversize",
+      "titleLine2": "Spirit Collection 2025",
+      "description": "Camisetas oversize, algodón pesado y night-drip vibes inspiradas en el ritmo urbano moderno. Diseñado para skate, street y nightlife.",
+      "shop": "Comprar colección",
+      "newArrivals": "Nuevas llegadas",
+      "shippingTitle": "Envío 24h",
+      "shippingDesc": "En todos los pedidos locales",
+      "qualityTitle": "Calidad Premium",
+      "qualityDesc": "Tela pesada 240gsm",
+      "badgeNew": "Nuevo Drop",
+      "badgeDrop": "KOI / DROP 01"
+    },
+    "benefits": {
+      "1": "Envío gratis desde $80",
+      "2": "Drops limitados",
+      "3": "Diseñado para street & skate",
+      "4": "Checkout seguro"
+    },
+
+    "promo": {
+      "tag": "Cápsula Limitada",
+      "title": "KOI Duality Night Drop",
+      "description": "Piezas en negro con detalles koi orange y gráficos inspirados en dualidad, río y movimiento. Disponible solo este mes.",
+      "explore": "Explorar drop",
+      "notify": "Notificarme",
+      "sizes": "Tallas",
+      "sizesRange": "XS — 2XL",
+      "fabric": "Tela",
+      "fabricInfo": "Algodón pesado 240gsm"
+    },
+
+    "productCard": {
+      "viewDetails": "Ver detalles →"
+    }
+  },
+  "products": {
+    "breadcrumbHome": "Inicio",
+    "breadcrumbAll": "Todos los Productos",
+
+    "searchPlaceholder": "Buscar productos...",
+    "allCategories": "Todas las Categorías",
+    "allCollections": "Todas las Colecciones",
+
+    "sortNewest": "Más nuevos",
+    "sortPriceAsc": "Precio ↑",
+    "sortPriceDesc": "Precio ↓",
+
+    "loading": "Cargando productos…",
+    "noResults": "No hay productos que coincidan con tus filtros.",
+
+    "paginationPrev": "Anterior",
+    "paginationNext": "Siguiente"
+  },
+  "product": {
+    "breadcrumbHome": "Inicio",
+    "breadcrumbProducts": "Productos",
+
+    "loading": "Cargando producto…",
+    "notFound": "Producto no encontrado",
+
+    "inStock": "En stock: {stock}",
+    "outOfStock": "Sin stock",
+
+    "brand": "Marca",
+
+    "colors": "Colores",
+    "sizes": "Tallas",
+    "quantity": "Cantidad",
+
+    "addToCart": "Agregar al carrito",
+
+    "related": "Productos Relacionados",
+
+    "reviewsTitle": "Reseñas de Clientes",
+    "reviewsCount": "({count} reseñas)",
+    "sampleReview": "Calidad increíble. Los colores son vibrantes y el ajuste es perfecto. Exactamente lo que esperaba de KOI Streetwear."
+  },
+  "cart": {
+    "loading": "Cargando tu carrito…",
+    "empty": "Tu carrito está vacío",
+    "shopProducts": "Ver productos",
+
+    "yourCart": "Tu Carrito",
+    "variant": "Variante",
+    "remove": "Eliminar",
+
+    "orderSummary": "Resumen del Pedido",
+    "subtotal": "Subtotal",
+    "shipping": "Envío",
+    "total": "Total",
+    "demoNotice": "*Esto es una demo. El checkout se agregará más adelante.",
+    "continueShopping": "Seguir comprando"
+  },
+  "checkout": {
+    "button": "Ir a pagar",
+    "loading": "Redirigiendo…"
+  },
+  "checkoutSuccess": {
+    "loading": "Cargando tu pedido...",
+    "notFound": "Pedido no encontrado.",
+    "thankYou": "¡Gracias por tu compra!",
+    "orderId": "ID del pedido",
+    "status": "Estado",
+    "total": "Total",
+    "paymentMethod": "Método de pago",
+    "placedAt": "Realizado el",
+    "itemsTitle": "Artículos en tu pedido:",
+    "qty": "Cant.",
+    "variant": "Variante",
+    "continue": "Seguir comprando"
+  },
+  "profile": {
+    "mustBeLogged": "Debes iniciar sesión para ver esta página.",
+    "title": "Mi Cuenta",
+    "editProfile": "Editar Perfil",
+    "yourActivity": "Tu Actividad",
+    "soon": "Pronto verás tus pedidos, productos favoritos y más 🎁",
+    "modalTitle": "Editar Perfil",
+    "changePhoto": "Cambiar Foto",
+    "name": "Nombre",
+    "email": "Correo",
+    "saving": "Guardando...",
+    "saveChanges": "Guardar Cambios",
+    "success": "¡Perfil actualizado exitosamente!"
+  },
+  "Support": {
+    "createTicket": "Crear Ticket",
+    "submit": "Enviar Ticket",
+
+    "fields": {
+      "title": "Título",
+      "description": "Descripción",
+      "category": "Categoría",
+      "attachments": "Adjuntos"
+    },
+
+    "categories": {
+      "order_issue": "Problema con un pedido",
+      "payment_issue": "Problema con un pago",
+      "bug_report": "Reporte de error",
+      "refund_request": "Solicitud de reembolso",
+      "other": "Otro"
+    },
+
+    "priorityValues": {
+      "low": "Baja",
+      "medium": "Media",
+      "high": "Alta"
+    },
+
+    "attachmentsHelp": "Opcional — puedes adjuntar capturas o imágenes",
+    "addImages": "Agregar imágenes",
+    "uploading": "Subiendo...",
+
+    "myTickets": "Mis Tickets",
+    "newTicket": "Nuevo Ticket",
+    "mustBeLogged": "Debes iniciar sesión para ver esta página.",
+    "noTickets": "Aún no tienes tickets creados.",
+
+    "table": {
+      "title": "Título",
+      "status": "Estado",
+      "priority": "Prioridad",
+      "createdBy": "Creado por",
+      "createdAt": "Fecha",
+      "closedAt": "Cerrado el"
+    },
+
+    "status": {
+      "open": "Abierto",
+      "in_progress": "En progreso",
+      "resolved": "Resuelto",
+      "closed": "Cerrado"
+    },
+    "notFound": "Ticket no encontrado",
+    "back": "Volver",
+    "closeTicket": "Cerrar Ticket",
+    "closing": "Cerrando...",
+    "loadError": "Error al cargar el ticket"
+  }
+}

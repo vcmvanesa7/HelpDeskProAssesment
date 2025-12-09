@@ -1,0 +1,222 @@
+{
+  "Navbar": {
+    "products": "Products",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "profile": "Profile",
+    "adminPanel": "Admin Panel",
+    "support": "Support",
+    "supportPanel": "Support Panel"
+  },
+  "footer": {
+    "brandTitle": "KOI Streetwear",
+    "brandDescription": "Urban streetwear for him & her. Oversized drops • Skate culture • Night-drip vibes.",
+    "quickLinks": "Quick Links",
+    "products": "Products",
+    "about": "About Us",
+    "contact": "Contact",
+    "support": "Support",
+    "policies": "Policies",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "shipping": "Shipping Info",
+    "returns": "Refunds & Returns",
+    "copyright": "All rights reserved."
+  },
+  "home": {
+    "featuredTitle": "Featured Drops",
+    "featuredViewAll": "View all →",
+    "loading": "Loading products…",
+    "noProducts": "No products yet.",
+
+    "latestTitle": "New in Store",
+    "latestSeeAll": "See latest →",
+
+    "videoIntro": {
+      "title": "Streetwear for Him & Her",
+      "subtitle": "Oversized tees, cargos, hoodies & limited drops inspired by modern urban fashion."
+    },
+
+    "hero": {
+      "tag": "LIMITED DROP • STREETWEAR PREMIUM",
+      "titleLine1": "KOI Urban Oversize",
+      "titleLine2": "Spirit Collection 2025",
+      "description": "Oversized tees, heavy cotton and night-drip vibes inspired by modern city rhythm. Designed for skate, street & nightlife.",
+      "shop": "Shop Collection",
+      "newArrivals": "New Arrivals",
+      "shippingTitle": "24h Shipping",
+      "shippingDesc": "On all local orders",
+      "qualityTitle": "Premium Quality",
+      "qualityDesc": "240gsm heavy fabric",
+      "badgeNew": "New Drop",
+      "badgeDrop": "KOI / DROP 01"
+    },
+
+    "benefits": {
+      "1": "Free shipping over $80",
+      "2": "Limited drops only",
+      "3": "Designed for street & skate",
+      "4": "Secure checkout"
+    },
+
+    "promo": {
+      "tag": "Limited Capsule",
+      "title": "KOI Duality Night Drop",
+      "description": "Black pieces with koi orange details and graphics inspired by duality, river and movement. Available only this month.",
+      "explore": "Explore drop",
+      "notify": "Notify me",
+      "sizes": "Sizes",
+      "sizesRange": "XS — 2XL",
+      "fabric": "Fabric",
+      "fabricInfo": "240gsm heavy cotton"
+    },
+
+    "productCard": {
+      "viewDetails": "View details →"
+    }
+  },
+  "products": {
+    "breadcrumbHome": "Home",
+    "breadcrumbAll": "All Products",
+
+    "searchPlaceholder": "Search products...",
+    "allCategories": "All Categories",
+    "allCollections": "All Collections",
+
+    "sortNewest": "Newest",
+    "sortPriceAsc": "Price ↑",
+    "sortPriceDesc": "Price ↓",
+
+    "loading": "Loading products…",
+    "noResults": "No products match your filters.",
+
+    "paginationPrev": "Prev",
+    "paginationNext": "Next"
+  },
+  "product": {
+    "breadcrumbHome": "Home",
+    "breadcrumbProducts": "Products",
+
+    "loading": "Loading product…",
+    "notFound": "Product not found",
+
+    "inStock": "In Stock: {stock}",
+    "outOfStock": "Out of Stock",
+
+    "brand": "Brand",
+
+    "colors": "Colors",
+    "sizes": "Size",
+    "quantity": "Quantity",
+
+    "addToCart": "Add to Cart",
+
+    "related": "Related Products",
+
+    "reviewsTitle": "Customer Reviews",
+    "reviewsCount": "({count} reviews)",
+    "sampleReview": "Amazing quality. Colors are vibrant and the fit is perfect. Exactly what I expected from KOI Streetwear."
+  },
+  "cart": {
+    "loading": "Loading your cart…",
+    "empty": "Your cart is empty",
+    "shopProducts": "Shop Products",
+
+    "yourCart": "Your Cart",
+    "variant": "Variant",
+    "remove": "Remove",
+
+    "orderSummary": "Order Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "total": "Total",
+    "demoNotice": "*This is a demo. Checkout will be added later.",
+    "continueShopping": "Continue Shopping"
+  },
+  "checkout": {
+    "button": "Proceed to Checkout",
+    "loading": "Redirecting…"
+  },
+  "checkoutSuccess": {
+    "loading": "Loading your order...",
+    "notFound": "Order not found.",
+    "thankYou": "Thank you for your purchase!",
+    "orderId": "Order ID",
+    "status": "Status",
+    "total": "Total",
+    "paymentMethod": "Payment Method",
+    "placedAt": "Placed at",
+    "itemsTitle": "Items in your order:",
+    "qty": "Qty",
+    "variant": "Variant",
+    "continue": "Continue Shopping"
+  },
+  "profile": {
+    "mustBeLogged": "You must be logged in to view this page.",
+    "title": "My Account",
+    "editProfile": "Edit Profile",
+    "yourActivity": "Your Activity",
+    "soon": "Soon you will see your orders, favorite products and more 🎁",
+    "modalTitle": "Edit Profile",
+    "changePhoto": "Change Photo",
+    "name": "Name",
+    "email": "Email",
+    "saving": "Saving...",
+    "saveChanges": "Save Changes",
+    "success": "Profile updated successfully!"
+  },
+  "Support": {
+    "createTicket": "Create Ticket",
+    "submit": "Submit Ticket",
+
+    "fields": {
+      "title": "Title",
+      "description": "Description",
+      "category": "Category",
+      "attachments": "Attachments"
+    },
+    "categories": {
+      "order_issue": "Order Issue",
+      "payment_issue": "Payment Issue",
+      "bug_report": "Bug Report",
+      "refund_request": "Refund Request",
+      "other": "Other"
+    },
+    "priorityValues": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High"
+    },
+
+    "attachmentsHelp": "Optional — you may attach screenshots or images",
+    "addImages": "Add Images",
+    "uploading": "Uploading...",
+
+    "myTickets": "My Tickets",
+    "newTicket": "New Ticket",
+    "mustBeLogged": "You must be logged in to view this page.",
+    "noTickets": "You don't have any tickets yet.",
+
+    "table": {
+      "title": "Title",
+      "status": "Status",
+      "priority": "Priority",
+      "createdBy": "Created by",
+      "createdAt": "Created At",
+      "closedAt": "Closed At"
+    },
+
+    "status": {
+      "open": "Open",
+      "in_progress": "In Progress",
+      "resolved": "Resolved",
+      "closed": "Closed"
+    },
+    "notFound": "Ticket not found",
+    "back": "Back",
+    "closeTicket": "Close Ticket",
+    "closing": "Closing...",
+    "loadError": "Error loading ticket"
+  }
+}
